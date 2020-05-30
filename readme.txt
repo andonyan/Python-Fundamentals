@@ -1,0 +1,1 @@
+This is a collection of solutions to the lab/exercise assignments presented in the Python Fundamentals course in SoftUni.
