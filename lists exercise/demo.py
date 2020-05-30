@@ -1,2 +1,1 @@
-print ( 3 %
-        4)
+print('Git Test')
